@@ -1,0 +1,15 @@
+/**
+ * This prints hellow world
+ *
+ * @author (Owen Lowe)
+ * @version (8/20/19)
+ */
+public class HelloWorld{
+    public static void main()
+    {
+        System.out.println("There are 2 truths and one lie.");
+        System.out.println("My duck's name is Joe");
+        System.out.println("My duck's name is Bob");
+        System.out.println("My duck's name is Steve");
+    }
+}
